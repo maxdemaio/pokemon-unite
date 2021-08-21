@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Eject Button",
+        "description": "Quickly move in a designated direction.",
+        "tier": "S",
+        "cooldown": 70,
+        "level": 11
+    },
+    {
+        "name": "Fluffy Tail",
+        "description": "Incapacitate a wild pokemon and increase damage dealt to it.",
+        "tier": "B",
+        "cooldown": 25,
+        "level": 10
+    },
+    {
+        "name": "Full Heal",
+        "description": "Remove all status conditions and become immune to hindrances for a short time. (2.5s duration)",
+        "tier": "A",
+        "cooldown": 40,
+        "level": 14
+    },
+    {
+        "name": "Goal Getter",
+        "description": "Doubles goal scoring speed for a short time. (10s duration)",
+        "tier": "B",
+        "cooldown": 90,
+        "level": 17
+    },
+    {
+        "name": "Potion",
+        "description": "Restores some of your HP. (15% max HP)",
+        "tier": "C",
+        "cooldown": 30,
+        "level": 3
+    },
+    {
+        "name": "Slow Smoke",
+        "description": "Create a ring of smoke around you, greatly slowing enemies within. (1s duration)",
+        "tier": "D",
+        "cooldown": 40,
+        "level": 13
+    },
+    {
+        "name": "X Attack",
+        "description": "Raises your Attack and Sp. Attack for a short time. (7s duration – 20% increased Attack/Sp. Attack)",
+        "tier": "B",
+        "cooldown": 40,
+        "level": 7
+    },
+    {
+        "name": "X Speed",
+        "description": "Raises your movement speed and become immune to move speed reduction for a short time. (6s duration)",
+        "tier": "A",
+        "cooldown": 50,
+        "level": 8
+    }
+]

@@ -1,0 +1,1113 @@
+[
+    {
+        "name": "Tier 1",
+        "category": "Goal",
+        "latLon": [
+            170,
+            400
+        ],
+        "position": "Friendly",
+        "points": "Destroyed at 80 points scored",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Tier 1",
+        "category": "Goal",
+        "latLon": [
+            642,
+            400
+        ],
+        "position": "Friendly",
+        "points": "Destroyed at 80 points scored",
+        "reference_position": "top"
+    },
+    {
+        "name": "Tier 2",
+        "category": "Goal",
+        "latLon": [
+            235,
+            223
+        ],
+        "position": "Friendly",
+        "points": "Destroyed at 100 points scored",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Tier 2",
+        "category": "Goal",
+        "latLon": [
+            575,
+            223
+        ],
+        "position": "Friendly",
+        "points": "Destroyed at 100 points scored",
+        "reference_position": "top"
+    },
+    {
+        "name": "Base",
+        "category": "Goal",
+        "latLon": [
+            405,
+            95
+        ],
+        "position": "Friendly",
+        "points": "Never destroyed – infinite goals can be scored here",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Tier 1",
+        "category": "Goal",
+        "latLon": [
+            170,
+            622
+        ],
+        "position": "Enemy",
+        "points": "Destroyed at 80 points scored",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Tier 1",
+        "category": "Goal",
+        "latLon": [
+            642,
+            623
+        ],
+        "position": "Enemy",
+        "points": "Destroyed at 80 points scored",
+        "reference_position": "top"
+    },
+    {
+        "name": "Tier 2",
+        "category": "Goal",
+        "latLon": [
+            237,
+            798
+        ],
+        "position": "Enemy",
+        "points": "Destroyed at 100 points scored",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Tier 2",
+        "category": "Goal",
+        "latLon": [
+            578,
+            798
+        ],
+        "position": "Enemy",
+        "points": "Destroyed at 100 points scored",
+        "reference_position": "top"
+    },
+    {
+        "name": "Base",
+        "category": "Goal",
+        "latLon": [
+            408,
+            926
+        ],
+        "position": "Enemy",
+        "points": "Never destroyed – infinite goals can be scored here",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Bouffalant",
+        "category": "wildPokemon",
+        "latLon": [
+            490,
+            790
+        ],
+        "position": "Contested",
+        "points": 4,
+        "spawn": "9:45",
+        "respawn": "1m",
+        "buff": "Slow move speed of enemies attacked",
+        "final": "Worth 7 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Bouffalant",
+        "category": "wildPokemon",
+        "latLon": [
+            320,
+            230
+        ],
+        "position": "Contested",
+        "points": 4,
+        "spawn": "9:45",
+        "respawn": "1m",
+        "buff": "Slow move speed of enemies attacked",
+        "final": "Worth 7 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Drednaw",
+        "category": "wildPokemon",
+        "latLon": [
+            35,
+            511
+        ],
+        "position": "Contested",
+        "points": 20,
+        "spawn": "7:00",
+        "respawn": "2m",
+        "buff": "Grant team exp and shield",
+        "final": "Despawns",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Ludicolo",
+        "category": "wildPokemon",
+        "latLon": [
+            337,
+            798
+        ],
+        "position": "Contested",
+        "points": 4,
+        "spawn": "9:45",
+        "respawn": "1m",
+        "buff": "Deal increased damage to opponents with low HP",
+        "final": "Worth 7 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Ludicolo",
+        "category": "wildPokemon",
+        "latLon": [
+            490,
+            230
+        ],
+        "position": "Contested",
+        "points": 4,
+        "spawn": "9:45",
+        "respawn": "1m",
+        "buff": "Deal increased damage to opponents with low HP",
+        "final": "Worth 7 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Rotom",
+        "category": "wildPokemon",
+        "latLon": [
+            735,
+            511
+        ],
+        "position": "Contested",
+        "points": 20,
+        "spawn": "7:00",
+        "respawn": "2m",
+        "buff": "Walks to nearest opponent goal and provides instant scoring against it for 15s",
+        "final": "Despawns",
+        "reference_position": "top"
+    },
+    {
+        "name": "Zapdos",
+        "category": "wildPokemon",
+        "latLon": [
+            405,
+            511
+        ],
+        "position": "Contested",
+        "points": "30 self / 20 team",
+        "spawn": "2:00",
+        "respawn": "Never",
+        "buff": "Instant scoring against enemy goals for 30s",
+        "final": "Spawns",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            225,
+            115
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            270,
+            85
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            150,
+            210
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            250,
+            510
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "9:45",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            70,
+            390
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "9:40",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            110,
+            445
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "9:40",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            70,
+            630
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "9:40",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            110,
+            575
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "9:40",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            540,
+            90
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            600,
+            130
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            655,
+            215
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            540,
+            930
+        ],
+        "position": "Enemy",
+        "points": 5,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            600,
+            890
+        ],
+        "position": "Enemy",
+        "points": 5,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            655,
+            815
+        ],
+        "position": "Enemy",
+        "points": 5,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            270,
+            940
+        ],
+        "position": "Enemy",
+        "points": 5,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            225,
+            905
+        ],
+        "position": "Enemy",
+        "points": 5,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Audino",
+        "category": "wildPokemon",
+        "latLon": [
+            155,
+            815
+        ],
+        "position": "Enemy",
+        "points": 5,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Worth 8 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            450,
+            110
+        ],
+        "position": "Friendly",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "top"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            550,
+            180
+        ],
+        "position": "Friendly",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "top"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            630,
+            300
+        ],
+        "position": "Friendly",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "top"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            600,
+            310
+        ],
+        "position": "Friendly",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "top"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            360,
+            110
+        ],
+        "position": "Friendly",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            265,
+            185
+        ],
+        "position": "Friendly",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            210,
+            315
+        ],
+        "position": "Friendly",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            180,
+            305
+        ],
+        "position": "Friendly",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            450,
+            920
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "top"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            550,
+            840
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "top"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            360,
+            920
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "top"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            635,
+            720
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "top"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            600,
+            710
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            265,
+            835
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            210,
+            705
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            180,
+            720
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "-",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            710,
+            430
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "9:40",
+        "respawn": "1m",
+        "final": "Evolves into Ambipom and is worth 7 points",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            590,
+            435
+        ],
+        "position": "Friendly",
+        "points": 5,
+        "spawn": "9:40",
+        "respawn": "1m",
+        "final": "Evolves into Ambipom and is worth 7 points",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            710,
+            580
+        ],
+        "position": "Enemy",
+        "points": 5,
+        "spawn": "9:40",
+        "respawn": "1m",
+        "final": "Evolves into Ambipom and is worth 7 points",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Aipom",
+        "category": "wildPokemon",
+        "latLon": [
+            590,
+            585
+        ],
+        "position": "Enemy",
+        "points": 5,
+        "spawn": "9:40",
+        "respawn": "1m",
+        "final": "Evolves into Ambipom and is worth 7 points",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            285,
+            270
+        ],
+        "position": "Friendly",
+        "points": 3,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            530,
+            270
+        ],
+        "position": "Friendly",
+        "points": 3,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            285,
+            750
+        ],
+        "position": "Enemy",
+        "points": 3,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            530,
+            750
+        ],
+        "position": "Enemy",
+        "points": 3,
+        "spawn": "When the Tier 1 goal in this lane is destroyed",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            310,
+            660
+        ],
+        "position": "Enemy",
+        "points": 3,
+        "spawn": "9:45",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            125,
+            720
+        ],
+        "position": "Enemy",
+        "points": 3,
+        "spawn": "9:00",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            500,
+            660
+        ],
+        "position": "Enemy",
+        "points": 3,
+        "spawn": "9:45",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            685,
+            725
+        ],
+        "position": "Enemy",
+        "points": 3,
+        "spawn": "9:00",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            310,
+            360
+        ],
+        "position": "Friendly",
+        "points": 3,
+        "spawn": "9:45",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            125,
+            300
+        ],
+        "position": "Friendly",
+        "points": 3,
+        "spawn": "9:00",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            500,
+            360
+        ],
+        "position": "Friendly",
+        "points": 3,
+        "spawn": "9:45",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            685,
+            300
+        ],
+        "position": "Friendly",
+        "points": 3,
+        "spawn": "9:00",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            480,
+            460
+        ],
+        "position": "Friendly",
+        "points": 3,
+        "spawn": "8:45",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            580,
+            510
+        ],
+        "position": "Friendly",
+        "points": 3,
+        "spawn": "9:40",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            480,
+            560
+        ],
+        "position": "Enemy",
+        "points": 3,
+        "spawn": "8:45",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            340,
+            460
+        ],
+        "position": "Friendly",
+        "points": 3,
+        "spawn": "8:45",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Corphish",
+        "category": "wildPokemon",
+        "latLon": [
+            340,
+            560
+        ],
+        "position": "Enemy",
+        "points": 3,
+        "spawn": "8:45",
+        "respawn": "1m",
+        "final": "Evolves into Crawdaunt and is worth 4 points",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Lillipup",
+        "category": "wildPokemon",
+        "latLon": [
+            405,
+            170
+        ],
+        "position": "Friendly",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "Evolves into Herdier and is worth 3 points",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Lillipup",
+        "category": "wildPokemon",
+        "latLon": [
+            405,
+            850
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "Match Start",
+        "respawn": "Never",
+        "final": "Evolves into Herdier and is worth 3 points",
+        "reference_position": "mid"
+    },
+    {
+        "name": "Combee",
+        "category": "wildPokemon",
+        "latLon": [
+            170,
+            480
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "8:50",
+        "respawn": "1m 20s",
+        "final": "Worth 3 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Combee",
+        "category": "wildPokemon",
+        "latLon": [
+            170,
+            540
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "8:50",
+        "respawn": "1m 20s",
+        "final": "Worth 3 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Combee",
+        "category": "wildPokemon",
+        "latLon": [
+            200,
+            511
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "8:50",
+        "respawn": "1m 20s",
+        "final": "Worth 3 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Vespiquen",
+        "category": "wildPokemon",
+        "latLon": [
+            170,
+            511
+        ],
+        "position": "Enemy",
+        "points": 6,
+        "spawn": "8:50",
+        "respawn": "1m 20s",
+        "final": "Worth 8 points",
+        "reference_position": "bottom"
+    },
+    {
+        "name": "Combee",
+        "category": "wildPokemon",
+        "latLon": [
+            675,
+            510
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "8:50",
+        "respawn": "1m 20s",
+        "final": "Worth 3 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Combee",
+        "category": "wildPokemon",
+        "latLon": [
+            645,
+            540
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "8:50",
+        "respawn": "1m 20s",
+        "final": "Worth 3 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Combee",
+        "category": "wildPokemon",
+        "latLon": [
+            645,
+            480
+        ],
+        "position": "Enemy",
+        "points": 2,
+        "spawn": "8:50",
+        "respawn": "1m 20s",
+        "final": "Worth 3 points",
+        "reference_position": "top"
+    },
+    {
+        "name": "Vespiquen",
+        "category": "wildPokemon",
+        "latLon": [
+            645,
+            511
+        ],
+        "position": "Enemy",
+        "points": 6,
+        "spawn": "8:50",
+        "respawn": "1m 20s",
+        "final": "Worth 8 points",
+        "reference_position": "top"
+    }
+]
