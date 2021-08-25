@@ -10,5 +10,5 @@ Pokémon Unite - data science on pokemon stats
 Voilà! You've now ran the code. If you want different levels/stats just change out the block where I set the `level` and `stat` variables and re-run.
 
 ## Example graphs
-![hp graph at level 5](./graphs/hpLevel5.png)
-![overall graph at level 5](./graphs/overallLevel5.png)
+![hp graph at level 15](./graphs/attackLevel15.png)
+![overall graph at level 15](./graphs/overallLevel15.png)
