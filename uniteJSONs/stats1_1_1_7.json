@@ -1,0 +1,2532 @@
+[
+    {
+        "name": "Absol",
+        "level": [
+            {
+                "hp": 3000,
+                "attack": 170,
+                "defense": 52,
+                "sp_attack": 20,
+                "sp_defense": 36
+            },
+            {
+                "hp": 3107,
+                "attack": 186,
+                "defense": 59,
+                "sp_attack": 23,
+                "sp_defense": 41
+            },
+            {
+                "hp": 3224,
+                "attack": 204,
+                "defense": 67,
+                "sp_attack": 27,
+                "sp_defense": 47
+            },
+            {
+                "hp": 3353,
+                "attack": 223,
+                "defense": 76,
+                "sp_attack": 31,
+                "sp_defense": 53
+            },
+            {
+                "hp": 3495,
+                "attack": 244,
+                "defense": 86,
+                "sp_attack": 36,
+                "sp_defense": 60
+            },
+            {
+                "hp": 3651,
+                "attack": 267,
+                "defense": 97,
+                "sp_attack": 41,
+                "sp_defense": 68
+            },
+            {
+                "hp": 3823,
+                "attack": 293,
+                "defense": 109,
+                "sp_attack": 47,
+                "sp_defense": 76
+            },
+            {
+                "hp": 4012,
+                "attack": 321,
+                "defense": 122,
+                "sp_attack": 53,
+                "sp_defense": 85
+            },
+            {
+                "hp": 4221,
+                "attack": 352,
+                "defense": 136,
+                "sp_attack": 60,
+                "sp_defense": 95
+            },
+            {
+                "hp": 4451,
+                "attack": 387,
+                "defense": 152,
+                "sp_attack": 68,
+                "sp_defense": 106
+            },
+            {
+                "hp": 4704,
+                "attack": 425,
+                "defense": 170,
+                "sp_attack": 76,
+                "sp_defense": 118
+            },
+            {
+                "hp": 4983,
+                "attack": 467,
+                "defense": 189,
+                "sp_attack": 85,
+                "sp_defense": 131
+            },
+            {
+                "hp": 5290,
+                "attack": 513,
+                "defense": 210,
+                "sp_attack": 95,
+                "sp_defense": 146
+            },
+            {
+                "hp": 5628,
+                "attack": 564,
+                "defense": 233,
+                "sp_attack": 106,
+                "sp_defense": 162
+            },
+            {
+                "hp": 6000,
+                "attack": 620,
+                "defense": 259,
+                "sp_attack": 118,
+                "sp_defense": 180
+            }
+        ]
+    },
+    {
+        "name": "Blastoise",
+        "level": [
+            {
+                "hp": 3225,
+                "attack": 150,
+                "defense": 100,
+                "sp_attack": 50,
+                "sp_defense": 70
+            },
+            {
+                "hp": 3319,
+                "attack": 152,
+                "defense": 107,
+                "sp_attack": 55,
+                "sp_defense": 75
+            },
+            {
+                "hp": 3432,
+                "attack": 154,
+                "defense": 116,
+                "sp_attack": 61,
+                "sp_defense": 81
+            },
+            {
+                "hp": 3568,
+                "attack": 157,
+                "defense": 126,
+                "sp_attack": 68,
+                "sp_defense": 88
+            },
+            {
+                "hp": 4060,
+                "attack": 168,
+                "defense": 163,
+                "sp_attack": 95,
+                "sp_defense": 114
+            },
+            {
+                "hp": 4256,
+                "attack": 172,
+                "defense": 178,
+                "sp_attack": 106,
+                "sp_defense": 124
+            },
+            {
+                "hp": 4491,
+                "attack": 177,
+                "defense": 196,
+                "sp_attack": 119,
+                "sp_defense": 137
+            },
+            {
+                "hp": 4773,
+                "attack": 183,
+                "defense": 217,
+                "sp_attack": 135,
+                "sp_defense": 152
+            },
+            {
+                "hp": 5769,
+                "attack": 204,
+                "defense": 293,
+                "sp_attack": 190,
+                "sp_defense": 205
+            },
+            {
+                "hp": 6175,
+                "attack": 214,
+                "defense": 324,
+                "sp_attack": 212,
+                "sp_defense": 227
+            },
+            {
+                "hp": 6662,
+                "attack": 224,
+                "defense": 361,
+                "sp_attack": 239,
+                "sp_defense": 253
+            },
+            {
+                "hp": 7247,
+                "attack": 238,
+                "defense": 405,
+                "sp_attack": 271,
+                "sp_defense": 284
+            },
+            {
+                "hp": 7948,
+                "attack": 252,
+                "defense": 458,
+                "sp_attack": 310,
+                "sp_defense": 321
+            },
+            {
+                "hp": 8790,
+                "attack": 270,
+                "defense": 522,
+                "sp_attack": 356,
+                "sp_defense": 366
+            },
+            {
+                "hp": 9800,
+                "attack": 292,
+                "defense": 599,
+                "sp_attack": 412,
+                "sp_defense": 420
+            }
+        ]
+    },
+    {
+        "name": "Blissey",
+        "level": [
+            {
+                "hp": 3278,
+                "attack": 143,
+                "defense": 40,
+                "sp_attack": 40,
+                "sp_defense": 30
+            },
+            {
+                "hp": 3427,
+                "attack": 147,
+                "defense": 44,
+                "sp_attack": 52,
+                "sp_defense": 33
+            },
+            {
+                "hp": 3598,
+                "attack": 152,
+                "defense": 48,
+                "sp_attack": 66,
+                "sp_defense": 36
+            },
+            {
+                "hp": 4467,
+                "attack": 178,
+                "defense": 69,
+                "sp_attack": 138,
+                "sp_defense": 52
+            },
+            {
+                "hp": 4694,
+                "attack": 184,
+                "defense": 74,
+                "sp_attack": 157,
+                "sp_defense": 56
+            },
+            {
+                "hp": 4955,
+                "attack": 192,
+                "defense": 80,
+                "sp_attack": 179,
+                "sp_defense": 61
+            },
+            {
+                "hp": 5255,
+                "attack": 201,
+                "defense": 87,
+                "sp_attack": 204,
+                "sp_defense": 66
+            },
+            {
+                "hp": 5600,
+                "attack": 211,
+                "defense": 95,
+                "sp_attack": 233,
+                "sp_defense": 72
+            },
+            {
+                "hp": 5997,
+                "attack": 223,
+                "defense": 104,
+                "sp_attack": 266,
+                "sp_defense": 79
+            },
+            {
+                "hp": 6454,
+                "attack": 236,
+                "defense": 115,
+                "sp_attack": 304,
+                "sp_defense": 87
+            },
+            {
+                "hp": 6980,
+                "attack": 251,
+                "defense": 128,
+                "sp_attack": 348,
+                "sp_defense": 96
+            },
+            {
+                "hp": 7585,
+                "attack": 269,
+                "defense": 142,
+                "sp_attack": 398,
+                "sp_defense": 107
+            },
+            {
+                "hp": 8281,
+                "attack": 290,
+                "defense": 159,
+                "sp_attack": 456,
+                "sp_defense": 119
+            },
+            {
+                "hp": 9081,
+                "attack": 313,
+                "defense": 178,
+                "sp_attack": 523,
+                "sp_defense": 133
+            },
+            {
+                "hp": 10000,
+                "attack": 341,
+                "defense": 200,
+                "sp_attack": 600,
+                "sp_defense": 149
+            }
+        ]
+    },
+    {
+        "name": "Charizard",
+        "level": [
+            {
+                "hp": 3200,
+                "attack": 161,
+                "defense": 70,
+                "sp_attack": 20,
+                "sp_defense": 34
+            },
+            {
+                "hp": 3264,
+                "attack": 165,
+                "defense": 74,
+                "sp_attack": 21,
+                "sp_defense": 57
+            },
+            {
+                "hp": 3341,
+                "attack": 170,
+                "defense": 79,
+                "sp_attack": 23,
+                "sp_defense": 61
+            },
+            {
+                "hp": 3434,
+                "attack": 175,
+                "defense": 85,
+                "sp_attack": 25,
+                "sp_defense": 65
+            },
+            {
+                "hp": 3771,
+                "attack": 199,
+                "defense": 106,
+                "sp_attack": 32,
+                "sp_defense": 81
+            },
+            {
+                "hp": 3905,
+                "attack": 208,
+                "defense": 114,
+                "sp_attack": 35,
+                "sp_defense": 87
+            },
+            {
+                "hp": 4066,
+                "attack": 219,
+                "defense": 124,
+                "sp_attack": 38,
+                "sp_defense": 95
+            },
+            {
+                "hp": 4259,
+                "attack": 232,
+                "defense": 136,
+                "sp_attack": 42,
+                "sp_defense": 104
+            },
+            {
+                "hp": 4941,
+                "attack": 278,
+                "defense": 178,
+                "sp_attack": 56,
+                "sp_defense": 137
+            },
+            {
+                "hp": 5219,
+                "attack": 297,
+                "defense": 195,
+                "sp_attack": 62,
+                "sp_defense": 150
+            },
+            {
+                "hp": 5553,
+                "attack": 319,
+                "defense": 216,
+                "sp_attack": 69,
+                "sp_defense": 166
+            },
+            {
+                "hp": 5953,
+                "attack": 346,
+                "defense": 241,
+                "sp_attack": 77,
+                "sp_defense": 185
+            },
+            {
+                "hp": 6433,
+                "attack": 378,
+                "defense": 271,
+                "sp_attack": 87,
+                "sp_defense": 208
+            },
+            {
+                "hp": 7009,
+                "attack": 417,
+                "defense": 307,
+                "sp_attack": 99,
+                "sp_defense": 236
+            },
+            {
+                "hp": 7700,
+                "attack": 463,
+                "defense": 350,
+                "sp_attack": 114,
+                "sp_defense": 269
+            }
+        ]
+    },
+    {
+        "name": "Cinderace",
+        "level": [
+            {
+                "hp": 3000,
+                "attack": 135,
+                "defense": 50,
+                "sp_attack": 20,
+                "sp_defense": 30
+            },
+            {
+                "hp": 3034,
+                "attack": 140,
+                "defense": 53,
+                "sp_attack": 21,
+                "sp_defense": 32
+            },
+            {
+                "hp": 3124,
+                "attack": 145,
+                "defense": 60,
+                "sp_attack": 25,
+                "sp_defense": 36
+            },
+            {
+                "hp": 3304,
+                "attack": 151,
+                "defense": 75,
+                "sp_attack": 32,
+                "sp_defense": 45
+            },
+            {
+                "hp": 3304,
+                "attack": 174,
+                "defense": 75,
+                "sp_attack": 32,
+                "sp_defense": 45
+            },
+            {
+                "hp": 3376,
+                "attack": 183,
+                "defense": 81,
+                "sp_attack": 35,
+                "sp_defense": 49
+            },
+            {
+                "hp": 3702,
+                "attack": 221,
+                "defense": 108,
+                "sp_attack": 49,
+                "sp_defense": 65
+            },
+            {
+                "hp": 3805,
+                "attack": 233,
+                "defense": 117,
+                "sp_attack": 53,
+                "sp_defense": 70
+            },
+            {
+                "hp": 3929,
+                "attack": 247,
+                "defense": 127,
+                "sp_attack": 58,
+                "sp_defense": 76
+            },
+            {
+                "hp": 4077,
+                "attack": 264,
+                "defense": 139,
+                "sp_attack": 64,
+                "sp_defense": 83
+            },
+            {
+                "hp": 4225,
+                "attack": 284,
+                "defense": 154,
+                "sp_attack": 71,
+                "sp_defense": 92
+            },
+            {
+                "hp": 4468,
+                "attack": 309,
+                "defense": 172,
+                "sp_attack": 80,
+                "sp_defense": 103
+            },
+            {
+                "hp": 4724,
+                "attack": 339,
+                "defense": 193,
+                "sp_attack": 91,
+                "sp_defense": 116
+            },
+            {
+                "hp": 5031,
+                "attack": 375,
+                "defense": 219,
+                "sp_attack": 104,
+                "sp_defense": 131
+            },
+            {
+                "hp": 5400,
+                "attack": 418,
+                "defense": 250,
+                "sp_attack": 119,
+                "sp_defense": 149
+            }
+        ]
+    },
+    {
+        "name": "Cramorant",
+        "level": [
+            {
+                "hp": 3292,
+                "attack": 134,
+                "defense": 60,
+                "sp_attack": 50,
+                "sp_defense": 40
+            },
+            {
+                "hp": 3399,
+                "attack": 139,
+                "defense": 69,
+                "sp_attack": 75,
+                "sp_defense": 46
+            },
+            {
+                "hp": 3517,
+                "attack": 145,
+                "defense": 78,
+                "sp_attack": 102,
+                "sp_defense": 52
+            },
+            {
+                "hp": 3647,
+                "attack": 151,
+                "defense": 88,
+                "sp_attack": 132,
+                "sp_defense": 59
+            },
+            {
+                "hp": 3789,
+                "attack": 158,
+                "defense": 99,
+                "sp_attack": 165,
+                "sp_defense": 67
+            },
+            {
+                "hp": 3946,
+                "attack": 166,
+                "defense": 112,
+                "sp_attack": 201,
+                "sp_defense": 75
+            },
+            {
+                "hp": 4118,
+                "attack": 175,
+                "defense": 126,
+                "sp_attack": 240,
+                "sp_defense": 84
+            },
+            {
+                "hp": 4308,
+                "attack": 185,
+                "defense": 141,
+                "sp_attack": 283,
+                "sp_defense": 94
+            },
+            {
+                "hp": 4517,
+                "attack": 196,
+                "defense": 158,
+                "sp_attack": 331,
+                "sp_defense": 105
+            },
+            {
+                "hp": 4748,
+                "attack": 208,
+                "defense": 176,
+                "sp_attack": 384,
+                "sp_defense": 117
+            },
+            {
+                "hp": 5002,
+                "attack": 221,
+                "defense": 196,
+                "sp_attack": 442,
+                "sp_defense": 131
+            },
+            {
+                "hp": 5281,
+                "attack": 235,
+                "defense": 218,
+                "sp_attack": 506,
+                "sp_defense": 146
+            },
+            {
+                "hp": 5589,
+                "attack": 250,
+                "defense": 243,
+                "sp_attack": 576,
+                "sp_defense": 162
+            },
+            {
+                "hp": 5928,
+                "attack": 267,
+                "defense": 270,
+                "sp_attack": 654,
+                "sp_defense": 180
+            },
+            {
+                "hp": 6301,
+                "attack": 286,
+                "defense": 300,
+                "sp_attack": 739,
+                "sp_defense": 200
+            }
+        ]
+    },
+    {
+        "name": "Crustle",
+        "level": [
+            {
+                "hp": 3300,
+                "attack": 175,
+                "defense": 97,
+                "sp_attack": 20,
+                "sp_defense": 67
+            },
+            {
+                "hp": 3447,
+                "attack": 179,
+                "defense": 108,
+                "sp_attack": 22,
+                "sp_defense": 74
+            },
+            {
+                "hp": 3615,
+                "attack": 183,
+                "defense": 120,
+                "sp_attack": "24",
+                "sp_defense": 82
+            },
+            {
+                "hp": 4469,
+                "attack": 205,
+                "defense": 182,
+                "sp_attack": "36",
+                "sp_defense": 125
+            },
+            {
+                "hp": 4692,
+                "attack": 211,
+                "defense": 198,
+                "sp_attack": "39",
+                "sp_defense": 136
+            },
+            {
+                "hp": 4948,
+                "attack": 218,
+                "defense": 217,
+                "sp_attack": 43,
+                "sp_defense": 149
+            },
+            {
+                "hp": 5242,
+                "attack": 226,
+                "defense": 239,
+                "sp_attack": 47,
+                "sp_defense": 164
+            },
+            {
+                "hp": 5581,
+                "attack": 235,
+                "defense": 264,
+                "sp_attack": 52,
+                "sp_defense": 181
+            },
+            {
+                "hp": 5971,
+                "attack": 245,
+                "defense": 293,
+                "sp_attack": 58,
+                "sp_defense": 201
+            },
+            {
+                "hp": 6420,
+                "attack": 256,
+                "defense": 326,
+                "sp_attack": 65,
+                "sp_defense": 224
+            },
+            {
+                "hp": 6936,
+                "attack": 269,
+                "defense": 364,
+                "sp_attack": 73,
+                "sp_defense": 250
+            },
+            {
+                "hp": 7530,
+                "attack": 284,
+                "defense": 407,
+                "sp_attack": 82,
+                "sp_defense": 280
+            },
+            {
+                "hp": 8213,
+                "attack": 301,
+                "defense": 457,
+                "sp_attack": 92,
+                "sp_defense": 314
+            },
+            {
+                "hp": 8998,
+                "attack": 321,
+                "defense": 514,
+                "sp_attack": 103,
+                "sp_defense": 354
+            },
+            {
+                "hp": 9900,
+                "attack": 344,
+                "defense": 580,
+                "sp_attack": "116",
+                "sp_defense": 400
+            }
+        ]
+    },
+    {
+        "name": "Eldegoss",
+        "level": [
+            {
+                "hp": 3278,
+                "attack": 130,
+                "defense": 40,
+                "sp_attack": 40,
+                "sp_defense": 30
+            },
+            {
+                "hp": 3383,
+                "attack": 134,
+                "defense": 44,
+                "sp_attack": 54,
+                "sp_defense": 33
+            },
+            {
+                "hp": 3503,
+                "attack": 139,
+                "defense": 48,
+                "sp_attack": 70,
+                "sp_defense": 36
+            },
+            {
+                "hp": 4114,
+                "attack": 162,
+                "defense": 69,
+                "sp_attack": 152,
+                "sp_defense": 52
+            },
+            {
+                "hp": 4274,
+                "attack": 168,
+                "defense": 74,
+                "sp_attack": 173,
+                "sp_defense": 56
+            },
+            {
+                "hp": 4457,
+                "attack": 175,
+                "defense": 80,
+                "sp_attack": 198,
+                "sp_defense": 61
+            },
+            {
+                "hp": 4668,
+                "attack": 183,
+                "defense": 87,
+                "sp_attack": 226,
+                "sp_defense": 66
+            },
+            {
+                "hp": 4911,
+                "attack": 192,
+                "defense": 95,
+                "sp_attack": 258,
+                "sp_defense": 72
+            },
+            {
+                "hp": 5190,
+                "attack": 203,
+                "defense": 104,
+                "sp_attack": 295,
+                "sp_defense": 79
+            },
+            {
+                "hp": 5511,
+                "attack": 215,
+                "defense": 115,
+                "sp_attack": 338,
+                "sp_defense": 87
+            },
+            {
+                "hp": 5880,
+                "attack": 229,
+                "defense": 128,
+                "sp_attack": 387,
+                "sp_defense": 96
+            },
+            {
+                "hp": 6305,
+                "attack": 245,
+                "defense": 142,
+                "sp_attack": 444,
+                "sp_defense": 107
+            },
+            {
+                "hp": 6794,
+                "attack": 264,
+                "defense": 159,
+                "sp_attack": 509,
+                "sp_defense": 119
+            },
+            {
+                "hp": 7356,
+                "attack": 285,
+                "defense": 178,
+                "sp_attack": 584,
+                "sp_defense": 133
+            },
+            {
+                "hp": 8002,
+                "attack": 310,
+                "defense": 200,
+                "sp_attack": 670,
+                "sp_defense": 149
+            }
+        ]
+    },
+    {
+        "name": "Garchomp",
+        "level": [
+            {
+                "hp": 3050,
+                "attack": 145,
+                "defense": 84,
+                "sp_attack": 20,
+                "sp_defense": 64
+            },
+            {
+                "hp": 3117,
+                "attack": 150,
+                "defense": 89,
+                "sp_attack": 21,
+                "sp_defense": 68
+            },
+            {
+                "hp": 3198,
+                "attack": 156,
+                "defense": 95,
+                "sp_attack": 23,
+                "sp_defense": 72
+            },
+            {
+                "hp": 3295,
+                "attack": 163,
+                "defense": 102,
+                "sp_attack": 25,
+                "sp_defense": 77
+            },
+            {
+                "hp": 3412,
+                "attack": 172,
+                "defense": 110,
+                "sp_attack": 27,
+                "sp_defense": 83
+            },
+            {
+                "hp": 3787,
+                "attack": 200,
+                "defense": 137,
+                "sp_attack": 35,
+                "sp_defense": 103
+            },
+            {
+                "hp": 3955,
+                "attack": 213,
+                "defense": 149,
+                "sp_attack": 38,
+                "sp_defense": 112
+            },
+            {
+                "hp": 4157,
+                "attack": 228,
+                "defense": 163,
+                "sp_attack": 42,
+                "sp_defense": 123
+            },
+            {
+                "hp": 4339,
+                "attack": 246,
+                "defense": 180,
+                "sp_attack": 47,
+                "sp_defense": 136
+            },
+            {
+                "hp": 5159,
+                "attack": 303,
+                "defense": 234,
+                "sp_attack": 62,
+                "sp_defense": 177
+            },
+            {
+                "hp": 5507,
+                "attack": 329,
+                "defense": 259,
+                "sp_attack": 69,
+                "sp_defense": 196
+            },
+            {
+                "hp": 5925,
+                "attack": 360,
+                "defense": 289,
+                "sp_attack": 77,
+                "sp_defense": 219
+            },
+            {
+                "hp": 6426,
+                "attack": 397,
+                "defense": 325,
+                "sp_attack": 87,
+                "sp_defense": 246
+            },
+            {
+                "hp": 7028,
+                "attack": 442,
+                "defense": 368,
+                "sp_attack": 99,
+                "sp_defense": 279
+            },
+            {
+                "hp": 7750,
+                "attack": 496,
+                "defense": 420,
+                "sp_attack": 114,
+                "sp_defense": 318
+            }
+        ]
+    },
+    {
+        "name": "Gardevoir",
+        "level": [
+            {
+                "hp": 3200,
+                "attack": 134,
+                "defense": 35,
+                "sp_attack": 50,
+                "sp_defense": 27
+            },
+            {
+                "hp": 3245,
+                "attack": 136,
+                "defense": 37,
+                "sp_attack": 64,
+                "sp_defense": 29
+            },
+            {
+                "hp": 3299,
+                "attack": 139,
+                "defense": 39,
+                "sp_attack": 80,
+                "sp_defense": 31
+            },
+            {
+                "hp": 3363,
+                "attack": 142,
+                "defense": 42,
+                "sp_attack": "100",
+                "sp_defense": 33
+            },
+            {
+                "hp": 3440,
+                "attack": 146,
+                "defense": 45,
+                "sp_attack": 124,
+                "sp_defense": 36
+            },
+            {
+                "hp": 3689,
+                "attack": 158,
+                "defense": 56,
+                "sp_attack": "200",
+                "sp_defense": 45
+            },
+            {
+                "hp": 3801,
+                "attack": 164,
+                "defense": 61,
+                "sp_attack": 234,
+                "sp_defense": 49
+            },
+            {
+                "hp": 3935,
+                "attack": 171,
+                "defense": 67,
+                "sp_attack": "275",
+                "sp_defense": 54
+            },
+            {
+                "hp": 4096,
+                "attack": 179,
+                "defense": 74,
+                "sp_attack": 324,
+                "sp_defense": 60
+            },
+            {
+                "hp": 4601,
+                "attack": 204,
+                "defense": 97,
+                "sp_attack": 478,
+                "sp_defense": 77
+            },
+            {
+                "hp": 4832,
+                "attack": 216,
+                "defense": 107,
+                "sp_attack": 548,
+                "sp_defense": 85
+            },
+            {
+                "hp": 5109,
+                "attack": 230,
+                "defense": 119,
+                "sp_attack": "632",
+                "sp_defense": 95
+            },
+            {
+                "hp": 5442,
+                "attack": 247,
+                "defense": 134,
+                "sp_attack": 733,
+                "sp_defense": 107
+            },
+            {
+                "hp": 5841,
+                "attack": 267,
+                "defense": 152,
+                "sp_attack": "855",
+                "sp_defense": 121
+            },
+            {
+                "hp": 6320,
+                "attack": 291,
+                "defense": 174,
+                "sp_attack": 1001,
+                "sp_defense": 138
+            }
+        ]
+    },
+    {
+        "name": "Gengar",
+        "level": [
+            {
+                "hp": 3456,
+                "attack": 167,
+                "defense": 52,
+                "sp_attack": 50,
+                "sp_defense": 38
+            },
+            {
+                "hp": 3510,
+                "attack": 170,
+                "defense": 55,
+                "sp_attack": 59,
+                "sp_defense": 40
+            },
+            {
+                "hp": 3574,
+                "attack": 173,
+                "defense": 59,
+                "sp_attack": 71,
+                "sp_defense": 43
+            },
+            {
+                "hp": 3651,
+                "attack": 177,
+                "defense": 63,
+                "sp_attack": 83,
+                "sp_defense": 46
+            },
+            {
+                "hp": 3931,
+                "attack": 192,
+                "defense": 79,
+                "sp_attack": 129,
+                "sp_defense": 57
+            },
+            {
+                "hp": 4043,
+                "attack": 198,
+                "defense": 85,
+                "sp_attack": 147,
+                "sp_defense": 62
+            },
+            {
+                "hp": 4177,
+                "attack": 205,
+                "defense": 92,
+                "sp_attack": 169,
+                "sp_defense": 67
+            },
+            {
+                "hp": 4338,
+                "attack": 213,
+                "defense": 101,
+                "sp_attack": 196,
+                "sp_defense": 74
+            },
+            {
+                "hp": 4905,
+                "attack": 243,
+                "defense": 133,
+                "sp_attack": 290,
+                "sp_defense": 97
+            },
+            {
+                "hp": 5136,
+                "attack": 255,
+                "defense": 146,
+                "sp_attack": 328,
+                "sp_defense": 106
+            },
+            {
+                "hp": 5414,
+                "attack": 270,
+                "defense": 161,
+                "sp_attack": 374,
+                "sp_defense": 117
+            },
+            {
+                "hp": 5747,
+                "attack": 288,
+                "defense": 179,
+                "sp_attack": 429,
+                "sp_defense": 131
+            },
+            {
+                "hp": 6146,
+                "attack": 309,
+                "defense": 201,
+                "sp_attack": 495,
+                "sp_defense": 147
+            },
+            {
+                "hp": 6625,
+                "attack": 334,
+                "defense": 228,
+                "sp_attack": 574,
+                "sp_defense": 166
+            },
+            {
+                "hp": 7200,
+                "attack": 364,
+                "defense": 260,
+                "sp_attack": 669,
+                "sp_defense": 189
+            }
+        ]
+    },
+    {
+        "name": "Greninja",
+        "level": [
+            {
+                "hp": 3000,
+                "attack": 156,
+                "defense": 50,
+                "sp_attack": 20,
+                "sp_defense": 30
+            },
+            {
+                "hp": 3034,
+                "attack": 161,
+                "defense": 53,
+                "sp_attack": 21,
+                "sp_defense": 32
+            },
+            {
+                "hp": 3075,
+                "attack": 167,
+                "defense": 56,
+                "sp_attack": 23,
+                "sp_defense": 34
+            },
+            {
+                "hp": 3124,
+                "attack": 174,
+                "defense": 60,
+                "sp_attack": 25,
+                "sp_defense": 36
+            },
+            {
+                "hp": 3304,
+                "attack": 198,
+                "defense": 75,
+                "sp_attack": 32,
+                "sp_defense": 45
+            },
+            {
+                "hp": 3376,
+                "attack": 208,
+                "defense": 81,
+                "sp_attack": 35,
+                "sp_defense": 49
+            },
+            {
+                "hp": 3702,
+                "attack": 252,
+                "defense": 108,
+                "sp_attack": 49,
+                "sp_defense": 65
+            },
+            {
+                "hp": 3805,
+                "attack": 266,
+                "defense": 117,
+                "sp_attack": 53,
+                "sp_defense": 70
+            },
+            {
+                "hp": 3929,
+                "attack": 283,
+                "defense": 127,
+                "sp_attack": 58,
+                "sp_defense": 76
+            },
+            {
+                "hp": 4077,
+                "attack": 303,
+                "defense": 139,
+                "sp_attack": 64,
+                "sp_defense": 83
+            },
+            {
+                "hp": 4255,
+                "attack": 327,
+                "defense": 154,
+                "sp_attack": 74,
+                "sp_defense": 92
+            },
+            {
+                "hp": 4468,
+                "attack": 356,
+                "defense": 172,
+                "sp_attack": 80,
+                "sp_defense": 103
+            },
+            {
+                "hp": 4724,
+                "attack": 391,
+                "defense": 193,
+                "sp_attack": 91,
+                "sp_defense": 116
+            },
+            {
+                "hp": 5031,
+                "attack": 432,
+                "defense": 219,
+                "sp_attack": 104,
+                "sp_defense": 131
+            },
+            {
+                "hp": 5400,
+                "attack": 482,
+                "defense": 250,
+                "sp_attack": 119,
+                "sp_defense": 149
+            }
+        ]
+    },
+    {
+        "name": "Lucario",
+        "level": [
+            {
+                "hp": 3250,
+                "attack": 165,
+                "defense": 78,
+                "sp_attack": 20,
+                "sp_defense": 60
+            },
+            {
+                "hp": 3392,
+                "attack": 175,
+                "defense": 89,
+                "sp_attack": 23,
+                "sp_defense": 69
+            },
+            {
+                "hp": 3549,
+                "attack": 186,
+                "defense": 101,
+                "sp_attack": 27,
+                "sp_defense": 78
+            },
+            {
+                "hp": 3721,
+                "attack": 198,
+                "defense": 114,
+                "sp_attack": 31,
+                "sp_defense": 88
+            },
+            {
+                "hp": 3910,
+                "attack": 211,
+                "defense": 129,
+                "sp_attack": 36,
+                "sp_defense": 99
+            },
+            {
+                "hp": 4118,
+                "attack": 225,
+                "defense": 145,
+                "sp_attack": 41,
+                "sp_defense": 112
+            },
+            {
+                "hp": 4347,
+                "attack": 241,
+                "defense": 163,
+                "sp_attack": 46,
+                "sp_defense": 126
+            },
+            {
+                "hp": 4599,
+                "attack": 258,
+                "defense": 183,
+                "sp_attack": 52,
+                "sp_defense": 141
+            },
+            {
+                "hp": 4877,
+                "attack": 277,
+                "defense": 205,
+                "sp_attack": 59,
+                "sp_defense": 158
+            },
+            {
+                "hp": 5184,
+                "attack": 298,
+                "defense": 229,
+                "sp_attack": 66,
+                "sp_defense": 176
+            },
+            {
+                "hp": 5522,
+                "attack": 321,
+                "defense": 255,
+                "sp_attack": 74,
+                "sp_defense": 196
+            },
+            {
+                "hp": 5894,
+                "attack": 347,
+                "defense": 284,
+                "sp_attack": 83,
+                "sp_defense": 218
+            },
+            {
+                "hp": 6303,
+                "attack": 375,
+                "defense": 316,
+                "sp_attack": 93,
+                "sp_defense": 243
+            },
+            {
+                "hp": 6753,
+                "attack": 406,
+                "defense": 351,
+                "sp_attack": 104,
+                "sp_defense": 270
+            },
+            {
+                "hp": 7249,
+                "attack": 440,
+                "defense": 390,
+                "sp_attack": 116,
+                "sp_defense": 300
+            }
+        ]
+    },
+    {
+        "name": "Machamp",
+        "level": [
+            {
+                "hp": 3250,
+                "attack": 165,
+                "defense": 98,
+                "sp_attack": 20,
+                "sp_defense": 64
+            },
+            {
+                "hp": 3313,
+                "attack": 170,
+                "defense": 104,
+                "sp_attack": 21,
+                "sp_defense": 68
+            },
+            {
+                "hp": 3389,
+                "attack": 175,
+                "defense": 111,
+                "sp_attack": 23,
+                "sp_defense": 72
+            },
+            {
+                "hp": 3480,
+                "attack": 181,
+                "defense": 119,
+                "sp_attack": 25,
+                "sp_defense": 77
+            },
+            {
+                "hp": 3809,
+                "attack": 205,
+                "defense": 148,
+                "sp_attack": 32,
+                "sp_defense": 96
+            },
+            {
+                "hp": 3940,
+                "attack": 214,
+                "defense": 160,
+                "sp_attack": 35,
+                "sp_defense": 104
+            },
+            {
+                "hp": 4097,
+                "attack": 225,
+                "defense": 174,
+                "sp_attack": 38,
+                "sp_defense": 113
+            },
+            {
+                "hp": 4286,
+                "attack": 239,
+                "defense": 191,
+                "sp_attack": 42,
+                "sp_defense": 124
+            },
+            {
+                "hp": 4953,
+                "attack": 287,
+                "defense": 250,
+                "sp_attack": 56,
+                "sp_defense": 163
+            },
+            {
+                "hp": 5225,
+                "attack": 306,
+                "defense": 274,
+                "sp_attack": 62,
+                "sp_defense": 179
+            },
+            {
+                "hp": 5551,
+                "attack": 329,
+                "defense": 303,
+                "sp_attack": 69,
+                "sp_defense": 198
+            },
+            {
+                "hp": 5942,
+                "attack": 357,
+                "defense": 338,
+                "sp_attack": 77,
+                "sp_defense": 221
+            },
+            {
+                "hp": 6411,
+                "attack": 391,
+                "defense": 380,
+                "sp_attack": 87,
+                "sp_defense": 248
+            },
+            {
+                "hp": 6974,
+                "attack": 431,
+                "defense": 430,
+                "sp_attack": 99,
+                "sp_defense": 281
+            },
+            {
+                "hp": 7650,
+                "attack": 479,
+                "defense": 490,
+                "sp_attack": 114,
+                "sp_defense": 320
+            }
+        ]
+    },
+    {
+        "name": "Mr.Mime",
+        "level": [
+            {
+                "hp": 3225,
+                "attack": 150,
+                "defense": 70,
+                "sp_attack": 50,
+                "sp_defense": 60
+            },
+            {
+                "hp": 3445,
+                "attack": 155,
+                "defense": 82,
+                "sp_attack": 63,
+                "sp_defense": 71
+            },
+            {
+                "hp": 3687,
+                "attack": 161,
+                "defense": 96,
+                "sp_attack": 77,
+                "sp_defense": 83
+            },
+            {
+                "hp": 3953,
+                "attack": 167,
+                "defense": 111,
+                "sp_attack": 93,
+                "sp_defense": 96
+            },
+            {
+                "hp": 4245,
+                "attack": 174,
+                "defense": 128,
+                "sp_attack": 110,
+                "sp_defense": 110
+            },
+            {
+                "hp": 4567,
+                "attack": 181,
+                "defense": 146,
+                "sp_attack": 129,
+                "sp_defense": 126
+            },
+            {
+                "hp": 4921,
+                "attack": 189,
+                "defense": 166,
+                "sp_attack": 150,
+                "sp_defense": 143
+            },
+            {
+                "hp": 5331,
+                "attack": 198,
+                "defense": 188,
+                "sp_attack": 173,
+                "sp_defense": 162
+            },
+            {
+                "hp": 5741,
+                "attack": 208,
+                "defense": 212,
+                "sp_attack": 198,
+                "sp_defense": 183
+            },
+            {
+                "hp": 6215,
+                "attack": 219,
+                "defense": 239,
+                "sp_attack": 226,
+                "sp_defense": 206
+            },
+            {
+                "hp": 6737,
+                "attack": 231,
+                "defense": 269,
+                "sp_attack": 257,
+                "sp_defense": 231
+            },
+            {
+                "hp": 7311,
+                "attack": 244,
+                "defense": 302,
+                "sp_attack": 291,
+                "sp_defense": 259
+            },
+            {
+                "hp": 7942,
+                "attack": 259,
+                "defense": 338,
+                "sp_attack": 328,
+                "sp_defense": 290
+            },
+            {
+                "hp": 8637,
+                "attack": 275,
+                "defense": 377,
+                "sp_attack": 369,
+                "sp_defense": 324
+            },
+            {
+                "hp": 9402,
+                "attack": 293,
+                "defense": 420,
+                "sp_attack": 414,
+                "sp_defense": 361
+            }
+        ]
+    },
+    {
+        "name": "Ninetales",
+        "level": [
+            {
+                "hp": 3197,
+                "attack": 134,
+                "defense": 35,
+                "sp_attack": 51,
+                "sp_defense": 27
+            },
+            {
+                "hp": 3266,
+                "attack": 137,
+                "defense": 38,
+                "sp_attack": 71,
+                "sp_defense": 29
+            },
+            {
+                "hp": 3345,
+                "attack": 141,
+                "defense": 42,
+                "sp_attack": 94,
+                "sp_defense": 32
+            },
+            {
+                "hp": 3747,
+                "attack": 161,
+                "defense": 60,
+                "sp_attack": 211,
+                "sp_defense": 46
+            },
+            {
+                "hp": 3852,
+                "attack": 166,
+                "defense": 65,
+                "sp_attack": "242",
+                "sp_defense": 50
+            },
+            {
+                "hp": 3972,
+                "attack": 172,
+                "defense": 70,
+                "sp_attack": "277",
+                "sp_defense": 54
+            },
+            {
+                "hp": 4110,
+                "attack": 179,
+                "defense": 76,
+                "sp_attack": "317",
+                "sp_defense": 59
+            },
+            {
+                "hp": 4269,
+                "attack": 187,
+                "defense": 83,
+                "sp_attack": 363,
+                "sp_defense": 65
+            },
+            {
+                "hp": 4452,
+                "attack": 196,
+                "defense": 91,
+                "sp_attack": 416,
+                "sp_defense": 71
+            },
+            {
+                "hp": 4663,
+                "attack": 207,
+                "defense": 101,
+                "sp_attack": "477",
+                "sp_defense": 78
+            },
+            {
+                "hp": 4906,
+                "attack": 219,
+                "defense": 112,
+                "sp_attack": 548,
+                "sp_defense": 86
+            },
+            {
+                "hp": 5185,
+                "attack": 233,
+                "defense": 125,
+                "sp_attack": 629,
+                "sp_defense": 96
+            },
+            {
+                "hp": 5506,
+                "attack": 249,
+                "defense": 139,
+                "sp_attack": 723,
+                "sp_defense": 107
+            },
+            {
+                "hp": 5875,
+                "attack": 268,
+                "defense": 156,
+                "sp_attack": 831,
+                "sp_defense": 120
+            },
+            {
+                "hp": 6299,
+                "attack": 289,
+                "defense": 175,
+                "sp_attack": "955",
+                "sp_defense": 135
+            }
+        ]
+    },
+    {
+        "name": "Pikachu",
+        "level": [
+            {
+                "hp": 3292,
+                "attack": 134,
+                "defense": 35,
+                "sp_attack": 50,
+                "sp_defense": 27
+            },
+            {
+                "hp": 3399,
+                "attack": 140,
+                "defense": 40,
+                "sp_attack": 82,
+                "sp_defense": 31
+            },
+            {
+                "hp": 3517,
+                "attack": 146,
+                "defense": 45,
+                "sp_attack": 117,
+                "sp_defense": 35
+            },
+            {
+                "hp": 3646,
+                "attack": 153,
+                "defense": 51,
+                "sp_attack": "156",
+                "sp_defense": 40
+            },
+            {
+                "hp": 3788,
+                "attack": 160,
+                "defense": 58,
+                "sp_attack": "199",
+                "sp_defense": 45
+            },
+            {
+                "hp": 3945,
+                "attack": 168,
+                "defense": 65,
+                "sp_attack": "246",
+                "sp_defense": 51
+            },
+            {
+                "hp": 4117,
+                "attack": 177,
+                "defense": 73,
+                "sp_attack": 298,
+                "sp_defense": 57
+            },
+            {
+                "hp": 4307,
+                "attack": 187,
+                "defense": 82,
+                "sp_attack": 355,
+                "sp_defense": 64
+            },
+            {
+                "hp": 4516,
+                "attack": 198,
+                "defense": 92,
+                "sp_attack": 418,
+                "sp_defense": 72
+            },
+            {
+                "hp": 4747,
+                "attack": 210,
+                "defense": 103,
+                "sp_attack": 487,
+                "sp_defense": 80
+            },
+            {
+                "hp": 5001,
+                "attack": 223,
+                "defense": 115,
+                "sp_attack": 563,
+                "sp_defense": 89
+            },
+            {
+                "hp": 5280,
+                "attack": 237,
+                "defense": 128,
+                "sp_attack": 647,
+                "sp_defense": 99
+            },
+            {
+                "hp": 5588,
+                "attack": 253,
+                "defense": 142,
+                "sp_attack": 740,
+                "sp_defense": 110
+            },
+            {
+                "hp": 5927,
+                "attack": 271,
+                "defense": 158,
+                "sp_attack": 842,
+                "sp_defense": 122
+            },
+            {
+                "hp": 6300,
+                "attack": 290,
+                "defense": 175,
+                "sp_attack": "954",
+                "sp_defense": 135
+            }
+        ]
+    },
+    {
+        "name": "Slowbro",
+        "level": [
+            {
+                "hp": 3225,
+                "attack": 150,
+                "defense": 70,
+                "sp_attack": 50,
+                "sp_defense": 60
+            },
+            {
+                "hp": 3362,
+                "attack": 153,
+                "defense": 78,
+                "sp_attack": 58,
+                "sp_defense": 67
+            },
+            {
+                "hp": 3519,
+                "attack": 157,
+                "defense": 87,
+                "sp_attack": 67,
+                "sp_defense": 75
+            },
+            {
+                "hp": 4318,
+                "attack": 175,
+                "defense": 132,
+                "sp_attack": 114,
+                "sp_defense": 114
+            },
+            {
+                "hp": 4527,
+                "attack": 180,
+                "defense": 144,
+                "sp_attack": 126,
+                "sp_defense": 124
+            },
+            {
+                "hp": 4767,
+                "attack": 186,
+                "defense": 158,
+                "sp_attack": 140,
+                "sp_defense": 136
+            },
+            {
+                "hp": 5042,
+                "attack": 192,
+                "defense": 174,
+                "sp_attack": 156,
+                "sp_defense": 149
+            },
+            {
+                "hp": 5359,
+                "attack": 199,
+                "defense": 192,
+                "sp_attack": 175,
+                "sp_defense": 164
+            },
+            {
+                "hp": 5724,
+                "attack": 207,
+                "defense": 213,
+                "sp_attack": 196,
+                "sp_defense": 182
+            },
+            {
+                "hp": 6144,
+                "attack": 217,
+                "defense": 237,
+                "sp_attack": 221,
+                "sp_defense": 202
+            },
+            {
+                "hp": 6627,
+                "attack": 228,
+                "defense": 264,
+                "sp_attack": 249,
+                "sp_defense": 225
+            },
+            {
+                "hp": 7183,
+                "attack": 241,
+                "defense": 295,
+                "sp_attack": 282,
+                "sp_defense": 252
+            },
+            {
+                "hp": 7822,
+                "attack": 256,
+                "defense": 331,
+                "sp_attack": 319,
+                "sp_defense": 283
+            },
+            {
+                "hp": 8556,
+                "attack": 273,
+                "defense": 373,
+                "sp_attack": 362,
+                "sp_defense": 319
+            },
+            {
+                "hp": 9400,
+                "attack": 292,
+                "defense": 421,
+                "sp_attack": 411,
+                "sp_defense": 360
+            }
+        ]
+    },
+    {
+        "name": "Snorlax",
+        "level": [
+            {
+                "hp": 3300,
+                "attack": 175,
+                "defense": 97,
+                "sp_attack": 20,
+                "sp_defense": 67
+            },
+            {
+                "hp": 3535,
+                "attack": 181,
+                "defense": 114,
+                "sp_attack": 23,
+                "sp_defense": 79
+            },
+            {
+                "hp": 3793,
+                "attack": 188,
+                "defense": 133,
+                "sp_attack": 27,
+                "sp_defense": 92
+            },
+            {
+                "hp": 4077,
+                "attack": 195,
+                "defense": 154,
+                "sp_attack": 31,
+                "sp_defense": 106
+            },
+            {
+                "hp": 4389,
+                "attack": 203,
+                "defense": 177,
+                "sp_attack": 36,
+                "sp_defense": 122
+            },
+            {
+                "hp": 4733,
+                "attack": 212,
+                "defense": 202,
+                "sp_attack": 41,
+                "sp_defense": 139
+            },
+            {
+                "hp": 5111,
+                "attack": 222,
+                "defense": 230,
+                "sp_attack": 46,
+                "sp_defense": 158
+            },
+            {
+                "hp": 5528,
+                "attack": 233,
+                "defense": 260,
+                "sp_attack": 52,
+                "sp_defense": 179
+            },
+            {
+                "hp": 5987,
+                "attack": 245,
+                "defense": 294,
+                "sp_attack": 59,
+                "sp_defense": 202
+            },
+            {
+                "hp": 6493,
+                "attack": 258,
+                "defense": 331,
+                "sp_attack": 66,
+                "sp_defense": 228
+            },
+            {
+                "hp": 7050,
+                "attack": 272,
+                "defense": 372,
+                "sp_attack": 74,
+                "sp_defense": 256
+            },
+            {
+                "hp": 7663,
+                "attack": 288,
+                "defense": 417,
+                "sp_attack": 83,
+                "sp_defense": 287
+            },
+            {
+                "hp": 8338,
+                "attack": 305,
+                "defense": 466,
+                "sp_attack": 93,
+                "sp_defense": 321
+            },
+            {
+                "hp": 9081,
+                "attack": 324,
+                "defense": 520,
+                "sp_attack": 104,
+                "sp_defense": 359
+            },
+            {
+                "hp": 9899,
+                "attack": 345,
+                "defense": 580,
+                "sp_attack": 116,
+                "sp_defense": 400
+            }
+        ]
+    },
+    {
+        "name": "Talonflame",
+        "level": [
+            {
+                "hp": 3024,
+                "attack": 170,
+                "defense": 58,
+                "sp_attack": 20,
+                "sp_defense": 40
+            },
+            {
+                "hp": 3071,
+                "attack": 176,
+                "defense": 61,
+                "sp_attack": 21,
+                "sp_defense": 42
+            },
+            {
+                "hp": 3127,
+                "attack": 184,
+                "defense": 65,
+                "sp_attack": 23,
+                "sp_defense": 45
+            },
+            {
+                "hp": 3195,
+                "attack": 193,
+                "defense": 70,
+                "sp_attack": 25,
+                "sp_defense": 48
+            },
+            {
+                "hp": 3440,
+                "attack": 227,
+                "defense": 87,
+                "sp_attack": 32,
+                "sp_defense": 60
+            },
+            {
+                "hp": 3538,
+                "attack": 241,
+                "defense": 94,
+                "sp_attack": 35,
+                "sp_defense": 65
+            },
+            {
+                "hp": 3983,
+                "attack": 303,
+                "defense": 125,
+                "sp_attack": 48,
+                "sp_defense": 87
+            },
+            {
+                "hp": 4124,
+                "attack": 322,
+                "defense": 135,
+                "sp_attack": 52,
+                "sp_defense": 94
+            },
+            {
+                "hp": 4293,
+                "attack": 345,
+                "defense": 147,
+                "sp_attack": 57,
+                "sp_defense": 102
+            },
+            {
+                "hp": 4495,
+                "attack": 373,
+                "defense": 161,
+                "sp_attack": 63,
+                "sp_defense": 112
+            },
+            {
+                "hp": 4738,
+                "attack": 407,
+                "defense": 178,
+                "sp_attack": 70,
+                "sp_defense": 124
+            },
+            {
+                "hp": 5029,
+                "attack": 447,
+                "defense": 199,
+                "sp_attack": 79,
+                "sp_defense": 138
+            },
+            {
+                "hp": 5378,
+                "attack": 495,
+                "defense": 224,
+                "sp_attack": 89,
+                "sp_defense": 155
+            },
+            {
+                "hp": 5797,
+                "attack": 553,
+                "defense": 254,
+                "sp_attack": 102,
+                "sp_defense": 175
+            },
+            {
+                "hp": 6300,
+                "attack": 623,
+                "defense": 290,
+                "sp_attack": 117,
+                "sp_defense": 200
+            }
+        ]
+    },
+    {
+        "name": "Venusaur",
+        "level": [
+            {
+                "hp": 3300,
+                "attack": 134,
+                "defense": 35,
+                "sp_attack": 50,
+                "sp_defense": 27
+            },
+            {
+                "hp": 3343,
+                "attack": 136,
+                "defense": 37,
+                "sp_attack": 63,
+                "sp_defense": 29
+            },
+            {
+                "hp": 3395,
+                "attack": 139,
+                "defense": 39,
+                "sp_attack": 79,
+                "sp_defense": 31
+            },
+            {
+                "hp": 3457,
+                "attack": 142,
+                "defense": 42,
+                "sp_attack": 98,
+                "sp_defense": 33
+            },
+            {
+                "hp": 3683,
+                "attack": 154,
+                "defense": 52,
+                "sp_attack": 166,
+                "sp_defense": 41
+            },
+            {
+                "hp": 3773,
+                "attack": 159,
+                "defense": 56,
+                "sp_attack": 193,
+                "sp_defense": 44
+            },
+            {
+                "hp": 3881,
+                "attack": 165,
+                "defense": 61,
+                "sp_attack": 226,
+                "sp_defense": 48
+            },
+            {
+                "hp": 4011,
+                "attack": 172,
+                "defense": 67,
+                "sp_attack": "265",
+                "sp_defense": 53
+            },
+            {
+                "hp": 4469,
+                "attack": 196,
+                "defense": 88,
+                "sp_attack": 403,
+                "sp_defense": 69
+            },
+            {
+                "hp": 4655,
+                "attack": 206,
+                "defense": 97,
+                "sp_attack": 459,
+                "sp_defense": 76
+            },
+            {
+                "hp": 4879,
+                "attack": 218,
+                "defense": 107,
+                "sp_attack": "527",
+                "sp_defense": 84
+            },
+            {
+                "hp": 5148,
+                "attack": 232,
+                "defense": 119,
+                "sp_attack": 608,
+                "sp_defense": 94
+            },
+            {
+                "hp": 5470,
+                "attack": 249,
+                "defense": 134,
+                "sp_attack": "705",
+                "sp_defense": 106
+            },
+            {
+                "hp": 5857,
+                "attack": 269,
+                "defense": 152,
+                "sp_attack": "822",
+                "sp_defense": 120
+            },
+            {
+                "hp": 6321,
+                "attack": 293,
+                "defense": 174,
+                "sp_attack": "962",
+                "sp_defense": 137
+            }
+        ]
+    },
+    {
+        "name": "Wigglytuff",
+        "level": [
+            {
+                "hp": 3278,
+                "attack": 130,
+                "defense": 90,
+                "sp_attack": 40,
+                "sp_defense": 80
+            },
+            {
+                "hp": 3415,
+                "attack": 134,
+                "defense": 100,
+                "sp_attack": 53,
+                "sp_defense": 89
+            },
+            {
+                "hp": 3573,
+                "attack": 139,
+                "defense": 111,
+                "sp_attack": 68,
+                "sp_defense": 99
+            },
+            {
+                "hp": 4372,
+                "attack": 162,
+                "defense": 169,
+                "sp_attack": 144,
+                "sp_defense": 151
+            },
+            {
+                "hp": 4581,
+                "attack": 168,
+                "defense": 184,
+                "sp_attack": 164,
+                "sp_defense": 165
+            },
+            {
+                "hp": 4821,
+                "attack": 175,
+                "defense": 201,
+                "sp_attack": 187,
+                "sp_defense": 181
+            },
+            {
+                "hp": 5097,
+                "attack": 183,
+                "defense": 221,
+                "sp_attack": 213,
+                "sp_defense": 199
+            },
+            {
+                "hp": 5414,
+                "attack": 192,
+                "defense": 244,
+                "sp_attack": 243,
+                "sp_defense": 220
+            },
+            {
+                "hp": 5779,
+                "attack": 203,
+                "defense": 271,
+                "sp_attack": 278,
+                "sp_defense": 244
+            },
+            {
+                "hp": 6199,
+                "attack": 215,
+                "defense": 302,
+                "sp_attack": 318,
+                "sp_defense": 271
+            },
+            {
+                "hp": 6681,
+                "attack": 229,
+                "defense": 337,
+                "sp_attack": 364,
+                "sp_defense": 302
+            },
+            {
+                "hp": 7236,
+                "attack": 245,
+                "defense": 377,
+                "sp_attack": 417,
+                "sp_defense": 338
+            },
+            {
+                "hp": 7874,
+                "attack": 264,
+                "defense": 424,
+                "sp_attack": 477,
+                "sp_defense": 379
+            },
+            {
+                "hp": 8608,
+                "attack": 285,
+                "defense": 477,
+                "sp_attack": 547,
+                "sp_defense": 427
+            },
+            {
+                "hp": 9452,
+                "attack": 310,
+                "defense": 539,
+                "sp_attack": 627,
+                "sp_defense": 482
+            }
+        ]
+    },
+    {
+        "name": "Zeraora",
+        "level": [
+            {
+                "hp": 3002,
+                "attack": 159,
+                "defense": 60,
+                "sp_attack": 20,
+                "sp_defense": 40
+            },
+            {
+                "hp": 3120,
+                "attack": 176,
+                "defense": 69,
+                "sp_attack": 23,
+                "sp_defense": 46
+            },
+            {
+                "hp": 3250,
+                "attack": 195,
+                "defense": 78,
+                "sp_attack": 27,
+                "sp_defense": 52
+            },
+            {
+                "hp": 3393,
+                "attack": 216,
+                "defense": 88,
+                "sp_attack": 31,
+                "sp_defense": 59
+            },
+            {
+                "hp": 3550,
+                "attack": 239,
+                "defense": 99,
+                "sp_attack": 36,
+                "sp_defense": 67
+            },
+            {
+                "hp": 3723,
+                "attack": 265,
+                "defense": 112,
+                "sp_attack": 41,
+                "sp_defense": 75
+            },
+            {
+                "hp": 3913,
+                "attack": 293,
+                "defense": 126,
+                "sp_attack": 47,
+                "sp_defense": 84
+            },
+            {
+                "hp": 4122,
+                "attack": 324,
+                "defense": 141,
+                "sp_attack": 53,
+                "sp_defense": 94
+            },
+            {
+                "hp": 4353,
+                "attack": 358,
+                "defense": 158,
+                "sp_attack": 60,
+                "sp_defense": 105
+            },
+            {
+                "hp": 4607,
+                "attack": 396,
+                "defense": 176,
+                "sp_attack": 68,
+                "sp_defense": 117
+            },
+            {
+                "hp": 4887,
+                "attack": 437,
+                "defense": 196,
+                "sp_attack": 76,
+                "sp_defense": 131
+            },
+            {
+                "hp": 5195,
+                "attack": 483,
+                "defense": 218,
+                "sp_attack": 85,
+                "sp_defense": 146
+            },
+            {
+                "hp": 5534,
+                "attack": 533,
+                "defense": 243,
+                "sp_attack": 98,
+                "sp_defense": 162
+            },
+            {
+                "hp": 5908,
+                "attack": 588,
+                "defense": 270,
+                "sp_attack": 106,
+                "sp_defense": 180
+            },
+            {
+                "hp": 6319,
+                "attack": 649,
+                "defense": 300,
+                "sp_attack": 118,
+                "sp_defense": 200
+            }
+        ]
+    }
+]
